@@ -1,7 +1,7 @@
 <h4 align="center"><samp> 👋 Hi, I'm Gabriel! 🌆 São Paulo, 🇧🇷.<br> Full-Stack Dev with experience in Python, Lua, and JS. 🚀 Passionate about building web apps, problem-solving and exploring new technologies. Check out my <a href="https://github.com/gabrielhuervo/pcap-python/blob/master/PE1/jogodavelha.py">Tic Tac Toe</a> project in Python. Let's connect and code! 💻🤝 
 <br>
 
-<!-- <a href="https://www.linkedin.com/in/gabrieltavares112/">Check out my LinkedIn profile! <img align="center" src="https://img.icons8.com/color/32/000000/linkedin.png"/></a></samp></h4>
+<!-- <a href="https://www.linkedin.com/in/gabrieltavares112/">Check out my LinkedIn profile! <img align="center" src="https://img.icons8.com/color/32/000000/linkedin.png"/></a></samp></h4><br>
 --!>
 
 <br><br>
